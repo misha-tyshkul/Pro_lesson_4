@@ -36,7 +36,7 @@ console.groupEnd();
 
 console.group("Знайти добуток усіх цілих чисел від 15 до 35.");
 
-let sum = 15;
+let sum = 1;
 
 for (let i = 15; i <= 35; i++) {
   sum = sum * i;
